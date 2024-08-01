@@ -149,7 +149,7 @@ button:hover{
     margin: auto;
 }
 
-@media  and (max-width: 700px){
+@media  and (max-width: 700px) {
     .container{
         width: 90%;
     }
